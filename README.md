@@ -1,4 +1,4 @@
 # devops-aula02
-Adam Sandler.
-Al Pacino.
-Alicia Silverstone.
+# Adam Sandler.
+# Al Pacino.
+# Alicia Silverstone.
